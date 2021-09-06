@@ -19,7 +19,7 @@ We estimate to run the recruitment for about a month. As long as you see the rec
 
 The study lasts for 31 days and has three parts.
  
-1. You will first complete a 10-minute pre-study survey to provide your contact, demographic, and psychophysical information (assessed by psychology instruments), after you consent to participate. 
+1. You will first complete a 15-minute pre-study survey to provide your contact, demographic, and psychophysical information (assessed by psychology instruments), after you consent to participate. 
  
 2. For the next 31 days, you need to allow researchers to follow your CaringBridge site and send you survey requests via email or SMS text based on your preference. Each time you publish a journal update on CaringBridge, you will be asked to fill in a brief (1 minute) survey regarding your thoughts. 
  
