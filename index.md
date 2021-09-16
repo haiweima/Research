@@ -2,7 +2,7 @@
 
 ### 1. Who are you?
 
-We are technical researchers at the University of Minnesota teaming up with CaringBridge to study expressive writing. Here are personal websites of researchers, [Haiwei Ma](https://haiweima.github.io/) and [Svetlana Yarosh](https://lanayarosh.com/). 
+We are technical researchers at the Department of Computer Science & Engineering, University of Minnesota, teaming up with CaringBridge to study expressive writing. Here are personal websites of researchers, [Haiwei Ma](https://haiweima.github.io/) and [Svetlana Yarosh](https://lanayarosh.com/). 
 
 ### 2. What is the study about?
 
@@ -23,10 +23,10 @@ The study lasts for 31 days and has three parts.
  
 2. For the next 31 days, you need to allow researchers to follow your CaringBridge site and send you survey requests via email or SMS text based on your preference. Each time you publish a journal update on CaringBridge, you will be asked to fill in a brief (1 minute) survey regarding your thoughts. 
  
-3. On the 31st day, you will be asked to complete a 10-minute post-study survey regarding your psychophysical state. 
+3. On the 31st day, you will be asked to complete a 10-minute post-study survey regarding your psychophysical state. You will also be given the opportunity to receive a $15 Amazon Digital gift card and the opportunity to receive the study results when published in around June, 2022. 
 
-### 6. Can I leave the study if I do not want to continue?
-Of course! You can leave the study at any time by contacting us via email or SMS text, or clicking the "leave the study" link in the emails or SMS texts you received.
+### 6. Is my participation voluntary? Can I leave the study if I do not want to continue?
+Of course! Participation in this study is voluntary. Your decision whether or not to participate will not affect your current or future relations with the University of Minnesota or CaringBridge. You may discontinue participation at any time. Your decision to discontinue participation will not affect your current or future relations with the University of Minnesota or CaringBridge. If you want to let us know you are leaving the study, you can contact us via email or SMS text, or clicking the "leave the study" link in the emails or SMS texts you received.
 
 ### 7. What if I miss a survey?
 Depending on the type of the survey you miss, there will be different consequences.
@@ -42,17 +42,29 @@ We collect your survey responses and journal updates during the study period. Al
 
 ### 9. Are there any risks to participation?
 
-The primary risk may be difficult or challenging emotions that arise during the course of writing journal updates and answering survey questions.
+Since some survey questions are related to your psychophysical states, the primary risk associated with participation may be difficult or challenging emotions that arise during the course of answering questions.
 
-### 10. What results will my participation yield?
+### 10. Are there any benefits to participation?
+
+You may feel a sense of contribution to helping the community and advancing the science.
+
+### 11. What results will my participation yield?
 Your valued input will result in a publication in a research conference and you can opt in to receive an email notification about study results in a lay-accessible blog post in around June, 2022.
 
-### 11. Is there any compensation for my participation?
-Yes! After completing the study, you will receive a $15 Amazon digital gift card for compensation.
+### 12. Is there any compensation for my participation?
+Yes! After completing the study (i.e., completing the final post-study survey), you will receive a message with a link to a survey, where you can provide the email address or phone number to receive the $15 Amazon digital gift card.
 
-### 12. What if I do not want to receive the compensation?
-You can simply ignore the message you receive regarding compensation.
+### 13. What if I do not want to receive the compensation?
+You can simply ignore the message you receive regarding compensation after you complete the study or explicitly say no in the survey in that message.
 
-### 13. How can I contact you if I have questions or issues not discussed here?
+### 14. What if I have questions, concerns, or complaints about the research?
 
-You can send an email to maxxx979@umn.edu or a SMS text to 651-239-6957 to reach out to Haiwei Ma for support and help.
+You are encouraged to contact Haiwei Ma by emailing to maxxx979@umn.edu or texting 651-239-6957 for support and help.
+
+This research has been reviewed and approved by an IRB within the Human Research Protections Program (HRPP). To share feedback privately with the HRPP about your research experience, call the Research Participants’ Advocate Line at 612-625-1650 (Toll Free: 1-888-224-8636) or go to z.umn.edu/participants. You are encouraged to contact the HRPP if:
+ 
+●       Your questions, concerns, or complaints are not being answered by the research team.
+●       You cannot reach the research team.
+●       You want to talk to someone besides the research team.
+●       You have questions about your rights as a research participant.
+●       You want to get information or provide input about this research.
