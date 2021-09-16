@@ -63,11 +63,11 @@ You are encouraged to contact Haiwei Ma by emailing to maxxx979@umn.edu or texti
 
 This research has been reviewed and approved by an IRB within the Human Research Protections Program (HRPP). To share feedback privately with the HRPP about your research experience, call the Research Participants’ Advocate Line at 612-625-1650 (Toll Free: 1-888-224-8636) or go to z.umn.edu/participants. You are encouraged to contact the HRPP if:
  
-- Your questions, concerns, or complaints are not being answered by the research team.
-- You cannot reach the research team.
-- You want to talk to someone besides the research team.
-- You have questions about your rights as a research participant.
-- You want to get information or provide input about this research.
+- Your questions, concerns, or complaints are not being answered by the research team. 
+- You cannot reach the research team. 
+- You want to talk to someone besides the research team. 
+- You have questions about your rights as a research participant. 
+- You want to get information or provide input about this research. 
 
 ### 15. Where can I download the online consent form?
 You can download it [here](https://github.com/haiweima/Research/files/7181051/HRP-587.-.Online.Consent.docx).
