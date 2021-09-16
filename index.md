@@ -26,7 +26,7 @@ The study lasts for 31 days and has three parts.
 3. On the 31st day, you will be asked to complete a 10-minute post-study survey regarding your psychophysical state. You will also be given the opportunity to receive a $15 Amazon Digital gift card and the opportunity to receive the study results when published in around June, 2022. 
 
 ### 6. Is my participation voluntary? Can I leave the study if I do not want to continue?
-Of course! Participation in this study is voluntary. Your decision whether or not to participate will not affect your current or future relations with the University of Minnesota or CaringBridge. You may discontinue participation at any time. Your decision to discontinue participation will not affect your current or future relations with the University of Minnesota or CaringBridge. If you want to let us know you are leaving the study, you can contact us via email or SMS text, or clicking the "leave the study" link in the emails or SMS texts you received.
+Of course! Participation in this study is voluntary. Your decision whether or not to participate will not affect your current or future relations with the University of Minnesota or CaringBridge. You may discontinue participation at any time. Your decision to discontinue participation will not affect your current or future relations with the University of Minnesota or CaringBridge. You can leave the study without notifying us. If you want to notify us, you can email to Haiwei Ma at maxxx979@umn.edu or text to his phone 651-239-6957, or clicking the "leave the study" link in the emails or SMS texts you received.
 
 ### 7. What if I miss a survey?
 Depending on the type of the survey you miss, there will be different consequences.
@@ -38,7 +38,7 @@ Depending on the type of the survey you miss, there will be different consequenc
 3. You can't miss the final, post-study survey. You have to fill it in to complete the study and get your compensation.
 
 ### 8. Will my information be safe and secure?
-We collect your survey responses and journal updates during the study period. All that information will be anonymized and stored in secure servers of the University of Minnesota, so that only researchers of this study can access and use it.
+The records of this study will be kept private. In any sort of report we might publish, we will not include any information that will make it possible to identify a subject. Research records will be stored securely and only researchers will have access to the records. 
 
 ### 9. Are there any risks to participation?
 
